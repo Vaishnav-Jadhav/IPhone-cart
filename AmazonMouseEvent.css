@@ -1,0 +1,16 @@
+
+
+nav>div>img:hover{
+    border: 2px solid rgb(35, 35, 54);
+    cursor: pointer;
+    border-radius: 7px;
+
+}
+section
+{
+    width: 99%;
+}
+
+div>ul{
+    list-style:disc;
+}
